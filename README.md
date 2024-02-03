@@ -3,3 +3,4 @@
   ```sh
   %LOCALAPPDATA%\PalServer\Pal\Saved\SaveGames\0
   ```
+![Uploading image.png…]()
